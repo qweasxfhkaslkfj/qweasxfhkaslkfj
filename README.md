@@ -42,8 +42,8 @@
 ---
 
 ### 📊 Статистика
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qweasxfhkaslkfj&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qweasxfhkaslkfj&theme=tokyonight" />
 <div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qweasxfhkaslkfj&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qweasxfhkaslkfj&theme=tokyonight" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qweasxfhkaslkfj&theme=tokyonight" />
 </div>
