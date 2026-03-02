@@ -23,17 +23,6 @@
 
 ---
 
-### 📊 Статистика
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qweasxfhkaslkfj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qweasxfhkaslkfj&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qweasxfhkaslkfj&theme=tokyonight" />
-</div>
-
 ### 🛠 Стек технологий
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -48,4 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 📊 Статистика
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qweasxfhkaslkfj&theme=tokyonight" />
 </div>
