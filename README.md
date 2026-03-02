@@ -2,7 +2,7 @@
 
 <img width="1000" height="600" src="https://media1.tenor.com/m/KQi6-XJYZdEAAAAd/cyber.gif"/>
 
-# Welcome!
+# Hello! I'm Denis Zolin
 
 ### ♫ Слава КПСС — Артист и Сцена
 <pre>
