@@ -5,6 +5,7 @@
 # Hello! I'm Denis Zolin
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tokyo_hoteI)
 [![VK](https://img.shields.io/badge/VK-%234680C2.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id448552575)
+[![Yandex Mail](https://img.shields.io/badge/Yandex_Mail-E61408?style=for-the-badge&logo=yandex&logoColor=white)](mailto:mr.dastale@yandex.ru)
 
 ### ♫ Слава КПСС — Артист и Сцена
 <pre>
